@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyxp&label=Profile%20views&color=0e75b6&style=flat" alt="moyxp" /> </p>
 
+
+---
+- Contact with me 🧑‍💻 anytime!
+---
+
 - 🔭 I’m currently working on **Internal project**
 
 - 🌱 I’m currently learning **ReactJS from scratch**
